@@ -4,13 +4,6 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Add your CV content here. You can also link a PDF version: [Download CV](/files/cv.pdf).
+**My current CV as of 8/2025:** <a href="/files/C.%20Jarratt%20CV%208.25.pdf">C. Jarratt CV 8.25.pdf</a>
 
-### Education
-- Syracuse University, B.S. Neuroscience and Psychology, 2025
-
-### Positions
-- Clinical Research Coordinator, Massachusetts General Hospital and Harvard Medical School
-
-### Interests
-Suicide prevention, substance use, alcohol cessation, tranquilizer misuse, predictive modeling.
+> Put your PDF at `files/C. Jarratt CV 8.25.pdf`. Keep the file name and spacing the same or update the link above.
