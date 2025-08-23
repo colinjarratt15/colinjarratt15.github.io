@@ -1,4 +1,5 @@
 colinjarratt.github.io/
+theme: jekyll-theme-primer
   index.md
   cv.md
   projects.md
