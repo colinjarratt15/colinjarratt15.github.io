@@ -1,8 +1,12 @@
 ---
 layout: page
-title: About
+title: Home
 permalink: /
 ---
+
+<p style="color:red; font-weight:bold; margin-top:20px;">
+  WEBSITE UNDER CONSTRUCTION, CHECK BACK SOON FOR MORE UPDATES
+</p>
 
 <div style="display:flex;gap:18px;align-items:flex-start;flex-wrap:wrap;">
   <img src="/assets/images/CJ Headshot 2024.jpg" alt="Colin Jarratt headshot" style="width:160px;height:160px;border-radius:12px;border:1px solid #e5e7eb;background:#f3f4f6;object-fit:cover;">
