@@ -1,0 +1,13 @@
+title: Colin Jarratt
+description: Research, posters, projects, and CV
+theme: minima
+
+header_pages:
+  - index.md
+  - cv.md
+  - projects.md
+
+minima:
+  skin: auto
+  social_links:
+    github: colinjarratt15

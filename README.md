@@ -1,12 +1,11 @@
-# Jekyll site for GitHub Pages
+# Three-page Jekyll site
 
-Deploy on the `main` branch at the repo root.
+Pages:
+- `/` About with headshot
+- `/cv` Curriculum Vitae with a PDF link
+- `/projects` Projects list
 
-## Steps
-1. Name the repo `YOURUSERNAME.github.io`.
-2. Upload these files to the repo root and commit to `main`.
-3. In Settings → Pages, pick Deploy from branch → main → /.
-4. Wait for the Pages deploy to turn green, then visit `https://YOURUSERNAME.github.io`.
+Upload a headshot image at `assets/images/headshot.svg` (or replace with `headshot.jpg` and update the `index.md` img src).
+Place the CV PDF at `files/C. Jarratt CV 8.25.pdf`.
 
-## Add your files
-- Put PDFs under `files/` or `posters/` and link to them from the pages.
+Deploy from main at the repo root. Settings → Pages → Deploy from branch → main → /.
