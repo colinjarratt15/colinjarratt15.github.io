@@ -7,5 +7,3 @@ Pages:
 
 Headshot image at `assets/images/headshot.svg`
 CV PDF `files/C. Jarratt CV 8.25.pdf`.
-
-Deploy from main at the repo root. Settings → Pages → Deploy from branch → main → /.
