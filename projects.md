@@ -4,8 +4,19 @@ title: Projects
 permalink: /projects
 ---
 
+###Awards and Grants 	 	 	 	 	 	 	 	 	 	 
+Suicide and Self-Injury SIG Travel Award | $250 | Association for Behavioral and Cognitive Therapies | September 2025
+Active Minds Conference Travel Award | $250 | Active Minds| June 2025
+Floyd Allport Outstanding Research Award | Syracuse University Dept. of Psychology | April 2025
+Dean’s List | Syracuse University College of Arts & Sciences | 2023 - 2025
+SOURCE Bridge Research Grant | $1,500 | Syracuse University | August 2024
+Volunteer of the Month | American Foundation for Suicide Prevention | April 2024
+Mental Health Education Grant | $800 | Delta Tau Delta Fraternity | March 2024
+
+
+
 ### Mass General Hospital/Harvard University Projects
-Jarratt, C., Fortgang R.G. (Submitted) *Examining Past-Year Alcohol Behavior Changes and Suicidal Ideation Among U.S. Alcohol Users.* Association for Behavioral and Cognitive Therapies, Suicide and Self-Injury Special Interest Group, New Orleans, LA.
+Jarratt, C., Fortgang R.G. (Accepted) *Examining Past-Year Alcohol Behavior Changes and Suicidal Ideation Among U.S. Alcohol Users.* Association for Behavioral and Cognitive Therapies, Suicide and Self-Injury Special Interest Group, New Orleans, LA.
 
 ### Syracuse University Projects
 Jarratt, C., Carlin, V., Nam, JK., Ditre, J. (2025, May 24). *Elevated Risk of Suicidal Ideation Among Veterans Who Reported Increased Drug Use During COVID-19.* 2025 Association for Psychological Science Annual Convention, Washington DC.
