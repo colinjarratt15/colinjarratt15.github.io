@@ -6,4 +6,4 @@ Pages:
 - `/projects` Projects list
 
 Headshot image at `assets/images/headshot.svg`
-CV PDF `files/C. Jarratt CV 8.25.pdf`.
+CV PDF `files/C. Jarratt CV 9.25.pdf`.
