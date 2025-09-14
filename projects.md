@@ -7,7 +7,7 @@ permalink: /projects
 ### Awards and Grants 	 	 	 	 	 	 	 	 	 	 
 Suicide and Self-Injury SIG Travel Award | $250 | Association for Behavioral and Cognitive Therapies | September 2025 
 
-Active Minds Conference Travel Award | $250 | Active Minds| June 2025
+Active Minds Conference Travel Award | $250 | Active Minds | June 2025
   
 Floyd Allport Outstanding Research Award | Syracuse University Dept. of Psychology | April 2025
 
