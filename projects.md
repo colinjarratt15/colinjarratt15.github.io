@@ -6,12 +6,18 @@ permalink: /projects
 
 ### Awards and Grants 	 	 	 	 	 	 	 	 	 	 
 Suicide and Self-Injury SIG Travel Award | $250 | Association for Behavioral and Cognitive Therapies | September 2025 
-  Active Minds Conference Travel Award | $250 | Active Minds| June 2025
-  Floyd Allport Outstanding Research Award | Syracuse University Dept. of Psychology | April 2025
-  Dean’s List | Syracuse University College of Arts & Sciences | 2023 - 2025
-  SOURCE Bridge Research Grant | $1,500 | Syracuse University | August 2024
-  Volunteer of the Month | American Foundation for Suicide Prevention | April 2024
-  Mental Health Education Grant | $800 | Delta Tau Delta Fraternity | March 2024
+
+Active Minds Conference Travel Award | $250 | Active Minds| June 2025
+  
+Floyd Allport Outstanding Research Award | Syracuse University Dept. of Psychology | April 2025
+
+Dean’s List | Syracuse University College of Arts & Sciences | 2023 - 2025
+
+SOURCE Bridge Research Grant | $1,500 | Syracuse University | August 2024
+
+Volunteer of the Month | American Foundation for Suicide Prevention | April 2024
+
+Mental Health Education Grant | $800 | Delta Tau Delta Fraternity | March 2024
 
 
 
