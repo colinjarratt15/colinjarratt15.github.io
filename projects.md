@@ -5,12 +5,14 @@ permalink: /projects
 ---
 
 ### Grants & Fellowships	 	 	 	 	 	 	 	 	 	 	 	 
-April 2026	
+**April 2026	**
+
 Accepted Fellow - Firearm Suicide Prevention Fellowship, New Jersey Gun Violence Research Center
 
 Amount Awarded: $500
 			
-2026 - 2027	
+**2026 - 2027	**
+
 Hunter’s Grant, Hunter Watson Memorial Fund
 
 Project: Alcohol Language Early Risk Tool for Suicide (ALERTS): Developing an NLP Model for Suicide-Related Language in Online Alcohol Discourse
@@ -19,12 +21,14 @@ Role: Principal Investigator (Mentors: Rebecca Fortgang, Ph.D., Chris Kennedy, P
 
 Amount Awarded: $5,000	
 			
-2026 – 2027	
+**2026 – 2027	**
+
 Global Impact Fellowship, The Memorial Foundation
 
 Project: Development of a Suicide Prevention Policy Addressing Alcohol Use Reduction in Virginia Substance Use Treatment Settings
 	
-2024 - 2025
+**2024 - 2025**
+
 SOURCE Bridge Research Grant, Syracuse University
 
 Project: Independent Undergraduate Research on Substance use and Suicidal Thoughts and Behaviors 
@@ -33,7 +37,8 @@ Role: Principal Investigator (Mentor: Joseph Ditre, Ph.D.)
 
 Amount Awarded: $1,500
 			
-2024
+**2024 - 2025**
+
 Mental Health Education Grant, Delta Tau Delta Fraternity,
 
 Project: Development of Narcan Training to Expand Peer-based Education on Harm Reduction and Opioid Overdose Prevention.
