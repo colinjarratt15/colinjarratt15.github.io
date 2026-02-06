@@ -7,31 +7,43 @@ permalink: /projects
 ### Grants & Fellowships	 	 	 	 	 	 	 	 	 	 	 	 
 April 2026	
 Accepted Fellow - Firearm Suicide Prevention Fellowship, New Jersey Gun Violence Research Center
+
 Amount Awarded: $500
 			
 2026 - 2027	
 Hunter’s Grant, Hunter Watson Memorial Fund
+
 Project: Alcohol Language Early Risk Tool for Suicide (ALERTS): Developing an NLP Model for Suicide-Related Language in Online Alcohol Discourse
+
 Role: Principal Investigator (Mentors: Rebecca Fortgang, Ph.D., Chris Kennedy, Ph.D.)
+
 Amount Awarded: $5,000	
 			
 2026 – 2027	
 Global Impact Fellowship, The Memorial Foundation
+
 Project: Development of a Suicide Prevention Policy Addressing Alcohol Use Reduction in Virginia Substance Use Treatment Settings
 	
 2024 - 2025
 SOURCE Bridge Research Grant, Syracuse University
+
 Project: Independent Undergraduate Research on Substance use and Suicidal Thoughts and Behaviors 
+
 Role: Principal Investigator (Mentor: Joseph Ditre, Ph.D.) 
-Amount Awarded: $1,500     
+
+Amount Awarded: $1,500
 			
 2024
 Mental Health Education Grant, Delta Tau Delta Fraternity,
+
 Project: Development of Narcan Training to Expand Peer-based Education on Harm Reduction and Opioid Overdose Prevention.
+
 Role: Principal Investigator (Mentor: Joseph Ditre, Ph.D.)
+
 Amount Awarded: $800                                          
 
-### Awards and Honors 	 	 	 	 	 	 	 	 	 	 
+### Awards and Honors 	
+
 Suicide and Self-Injury SIG Travel Award | $250 | Association for Behavioral and Cognitive Therapies      September 2025
 
 Floyd Allport Outstanding Research Award | Syracuse University Dept. of Psychology		        April 2025
@@ -40,7 +52,7 @@ Dean’s List | Syracuse University College of Arts & Sciences                  
 
 Volunteer of the Month | American Foundation for Suicide Prevention                    	                                               April 2024
 
-Manuscripts Under Review	      	 	   	 	 	       
+### Manuscripts Under Review	      	 	   	 	 	       
 
 Jarratt, C.J., Carlin, V.E., Ripley, G.H., Nam, JK, Marfilius, K.J., & Ditre, J.W. (Under Review). Graded Associations of Tranquilizer Use and Misuse with Suicidal Thoughts and Behaviors in a National Sample of U.S. Veterans.
 
