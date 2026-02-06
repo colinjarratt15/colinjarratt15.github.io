@@ -86,15 +86,16 @@ Jarratt, C.J., Fortgang R.G. (2025, November 21). Examining Past-Year Alcohol Be
 
 ### Syracuse University Projects
 Jarratt, C., Carlin, V., Nam, JK., Ditre, J. (2025, May 24). *Elevated Risk of Suicidal Ideation Among Veterans Who Reported Increased Drug Use During COVID-19.* 2025 Association for Psychological Science Annual Convention, Washington DC.
-[Covid 19 Drug Use, SI - Jarratt.pptx](https://github.com/user-attachments/files/25115303/Covid.19.Drug.Use.SI.-.Jarratt.pptx)
+[Covid 19 Drug Use - Jarratt.pdf](https://github.com/user-attachments/files/25115732/Covid.19.Drug.Use.-.Jarratt.pdf)
+
 
 Jarratt, C., Litt, S., Carlin, V., Ditre, J. (2025, April 18) *Rescue Ready: Personalized Narcan Training.* 2025 Syracuse University Neuroscience and Health Behavior Research Day, Syracuse, NY.
-[Rescue Ready Poster - Jarratt.pptx](https://github.com/user-attachments/files/25115276/Rescue.Ready.Poster.-.Jarratt.pptx)
+[Rescue Ready Poster - Jarratt.pdf](https://github.com/user-attachments/files/25115736/Rescue.Ready.Poster.-.Jarratt.pdf)
 
 Abrams, A., Burch, G., Jarratt, C., Meyer, D., Ha, R., Humphrey H., Macchia, A. (2025, April 11). *The Write Start: Prewriting and Writing Performance.* College of Arts & Sciences Research Festival, Syracuse, NY.
 
 Jarratt, C., Carlin, V., Nam, JK., Ditre, J. (2025, April 10). *Prescription Tranquilizer Misuse as a Potential Risk Factor for Suicidal Ideation in U.S. Veterans.* Voices for Service Research Symposium, Syracuse, NY.
-[Voices of Service Poster Apr 25.pptx](https://github.com/user-attachments/files/25115275/Voices.of.Service.Poster.Apr.25.pptx)
+[Voices of Service Poster - Jarratt.pdf](https://github.com/user-attachments/files/25115740/Voices.of.Service.Poster.-.Jarratt.pdf)
 
 Ripley, G., Jarratt, C., Ditre, J (2025, April 10). *Cannabis Use, Psychological Distress, and Suicidal Ideation Among U.S. Veterans: A Comparative Analysis.* Voices for Service Research Symposium, Syracuse, NY.
 
