@@ -82,8 +82,6 @@ Jarratt, C.J., Fortgang R.G. (2025, November 21). Examining Past-Year Alcohol Be
 [ABCT Poster - Jarratt.pdf](https://github.com/user-attachments/files/25115309/ABCT.Poster.-.Jarratt.pdf)
 
 
-
-
 ### Syracuse University Projects
 Jarratt, C., Carlin, V., Nam, JK., Ditre, J. (2025, May 24). *Elevated Risk of Suicidal Ideation Among Veterans Who Reported Increased Drug Use During COVID-19.* 2025 Association for Psychological Science Annual Convention, Washington DC.
 [Covid 19 Drug Use - Jarratt.pdf](https://github.com/user-attachments/files/25115732/Covid.19.Drug.Use.-.Jarratt.pdf)
@@ -98,6 +96,7 @@ Jarratt, C., Carlin, V., Nam, JK., Ditre, J. (2025, April 10). *Prescription Tra
 [Voices of Service Poster - Jarratt.pdf](https://github.com/user-attachments/files/25115740/Voices.of.Service.Poster.-.Jarratt.pdf)
 
 Ripley, G., Jarratt, C., Ditre, J (2025, April 10). *Cannabis Use, Psychological Distress, and Suicidal Ideation Among U.S. Veterans: A Comparative Analysis.* Voices for Service Research Symposium, Syracuse, NY.
+[Voices of Service Poster] (https://surface.syr.edu/cgi/viewcontent.cgi?article=1002&context=vos)
 
 Jarratt, C., Ripley, G., Nam, JK., Ditre, J. (2025, April 1). *Associations Between Opioid Use Disorder and Suicidal Ideation among Veterans and Non-Veterans who Endorsed Lifetime Major Depression with Sleep Disturbance.* 2025 American Association of Suicidology Annual Conference, Columbus, OH.
 
