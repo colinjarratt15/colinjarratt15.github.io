@@ -2,6 +2,9 @@ title: Colin Jarratt
 description: Suicide prevention research focused on behavior change and psychological transitions
 theme: minima
 
+author:
+  name: ""
+
 header_pages:
   - index.md
   - cv.md
