@@ -24,9 +24,13 @@ April 2026	Accepted Fellow - Firearm Suicide Prevention Fellowship, New Jersey G
 
 ### Awards and Honors 	 	 	 	 	 	 	 	 	 	 
 Suicide and Self-Injury SIG Travel Award | $250 | Association for Behavioral and Cognitive Therapies      September 2025
+
 Active Minds Conference Travel Award | $250 | Active Minds					         June 2025
+
 Floyd Allport Outstanding Research Award | Syracuse University Dept. of Psychology		        April 2025
+
 Dean’s List | Syracuse University College of Arts & Sciences                                       	                                       2023 - 2025
+
 Volunteer of the Month | American Foundation for Suicide Prevention                    	                                               April 2024
 
 ### Mass General Hospital/Harvard University Projects
