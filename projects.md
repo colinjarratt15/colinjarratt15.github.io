@@ -21,8 +21,6 @@ April 2026	Accepted Fellow - Firearm Suicide Prevention Fellowship, New Jersey G
 	Project: Development of Narcan Training to Expand Peer-based Education on Harm Reduction and Opioid Overdose Prevention.
 			Role: Principal Investigator (Mentor: Joseph Ditre, Ph.D.)
 			Amount Awarded: $800                                          
-<img width="543" height="446" alt="image" src="https://github.com/user-attachments/assets/d90034df-30e8-44e0-bead-1384f710226a" />
-
 
 ### Awards and Honors 	 	 	 	 	 	 	 	 	 	 
 Suicide and Self-Injury SIG Travel Award | $250 | Association for Behavioral and Cognitive Therapies      September 2025
