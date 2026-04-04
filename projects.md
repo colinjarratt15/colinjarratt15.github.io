@@ -36,24 +36,16 @@ Project: Independent Undergraduate Research on Substance use and Suicidal Though
 Role: Principal Investigator (Mentor: Joseph Ditre, Ph.D.) 
 
 Amount Awarded: $1,500
-			
-**2024 - 2025**
 
-Mental Health Education Grant, Delta Tau Delta Fraternity,
-
-Project: Development of Narcan Training to Expand Peer-based Education on Harm Reduction and Opioid Overdose Prevention.
-
-Role: Principal Investigator (Mentor: Joseph Ditre, Ph.D.)
-
-Amount Awarded: $800                                          
-
-
+								   
 
 ### Awards and Honors 	
 
-September 2025 - Suicide and Self-Injury SIG Travel Award,  $250, Association for Behavioral and Cognitive Therapies
+September 2025 - Suicide and Self-Injury SIG Travel Award, $250, Association for Behavioral and Cognitive Therapies
 
 April 2025 - Floyd Allport Outstanding Research Award, Syracuse University Dept. of Psychology
+
+September 2024 - Mental Health Education Award, $800, Delta Tau Delta Fraternity                                     
 
 2023 - 2025 - Dean’s List, Syracuse University College of Arts & Sciences
 
